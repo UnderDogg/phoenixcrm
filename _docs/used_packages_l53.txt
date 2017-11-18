@@ -1,0 +1,106 @@
+Deleting themes/default_admin/ - deleted
+Deleting themes/default/ - deleted
+Deleting themes/adminlte/ - deleted
+  - Removing teepluss/theme (2.0.6)
+Deleting app/Modules/Core/ - deleted
+  - Removing twig/twig (1.x-dev)
+Deleting app/Modules/Auth/ - deleted
+Deleting app/Modules/Admin/ - deleted
+  - Removing dompdf/dompdf (dev-develop)
+  - Removing phenx/php-font-lib (0.4)
+  - Removing phenx/php-svg-lib (0.1)
+wikimedia/composer-merge-plugin (v1.4.1)
+  - Removing composer/installers (dev-master d7410ea)
+composer/installers (dev-master 631937f) Cloning 631937f05d from cache
+psr/log (dev-master 4ebe3a8 => 1.0.2) Checking out 4ebe3a8bf7
+filp/whoops (2.1.5 => 2.1.12)
+nikic/php-parser (dev-master 3e8c8d2 => v3.1.2) Checking out 08131e7ff2
+classpreloader/classpreloader (dev-master 0b3ab84 => 3.1.0) Checking out bc7206aa89
+league/flysystem (dev-master 30f7026 => 1.0.41) Checking out f400aa9891
+monolog/monolog (1.x-dev b732364 => 1.23.0) Checking out fd8c787753
+mtdowling/cron-expression (v1.1.0 => v1.2.1)
+symfony/polyfill-mbstring (dev-master e79d363 => v1.6.0) Checking out 2ec8b39c38
+symfony/var-dumper (3.1.x-dev d34a930 => v3.1.10) Checking out 16df11647e
+symfony/debug (3.1.x-dev 73f1c33 => v3.1.10) Checking out c666136162
+symfony/console (3.1.x-dev 047f164 => v3.1.10) Checking out 047f16485d
+psy/psysh (v0.8.0 => v0.8.14)
+paragonie/random_compat (v2.0.4 => v2.0.11)
+ramsey/uuid (dev-master 41dcc41 => 3.7.1) Checking out 45cffe8220
+swiftmailer/swiftmailer (5.x-dev e341230 => v5.4.8) Checking out 9a06dc570a
+symfony/http-foundation (3.1.x-dev cef0ad4 => v3.1.10) Checking out cef0ad49a2
+symfony/event-dispatcher (dev-master 26e38ee => v3.3.11) Checking out 271d8c27c3
+symfony/http-kernel (3.1.x-dev 3910d3a => v3.1.10) Checking out c830387dec
+symfony/routing (3.1.x-dev 5cd8d7b => v3.1.10) Checking out f25581d4eb
+symfony/translation (3.1.x-dev 7882149 => v3.1.10) Checking out d5a20fab5f
+vlucas/phpdotenv (dev-master 08b7fbc => v2.4.0) Checking out 3cc116adbe
+psr/http-message (dev-master f6561bf => 1.0.1) Checking out f6561bf28d
+guzzlehttp/psr7 (dev-master 5f17a79 => 1.4.2) Checking out f5b8a8512e
+guzzlehttp/promises (dev-master a59da6c => v1.3.1) Checking out a59da6cf61
+hamcrest/hamcrest-php (1.2.x-dev b72949c => v1.2.2) Checking out b37020aa97
+mockery/mockery (0.9.x-dev d89523a => 0.9.9) Checking out 6fdb612438
+symfony/yaml (dev-master a7be123 => v3.3.11) Checking out 0938408c4f
+sebastian/global-state (1.1.x-dev 5a2b9ba => 1.1.1) Checking out bc37d50fea
+sebastian/recursion-context (1.0.x-dev b19cc32 => 1.0.5) Checking out b19cc32984
+sebastian/exporter (1.2.x-dev 7dfcd24 => 1.2.2) Checking out 42c4c2eec4
+sebastian/environment (1.3.x-dev be2c607 => 1.3.8) Checking out be2c607e43
+sebastian/diff (dev-master d081431 => 1.4.3) Checking out 7f066a26a9
+sebastian/comparator (dev-master 2f09d5a => 1.2.4) Checking out 2b7424b55f
+doctrine/instantiator (dev-master 416fb8a => 1.1.0) Checking out 185b8868aa
+phpunit/phpunit-mock-objects (2.3.x-dev ac8e7a3 => 2.3.8) Checking out ac8e7a3db3
+phpunit/php-timer (1.0.8 => 1.0.9)
+phpunit/php-file-iterator (dev-master 3cc8f69 => 1.4.2) Checking out 3cc8f69b30
+phpunit/php-token-stream (dev-master 3b402f6 => 1.4.11) Checking out e03f8f6753
+phpunit/php-code-coverage (2.2.x-dev eabf68b => 2.2.4) Checking out eabf68b476
+webmozart/assert (dev-master 4a8bf11 => 1.2.0) Checking out 2db61e59ff
+phpdocumentor/reflection-common (dev-master 144c307 => 1.0.1) Checking out 21bdeb5f65
+phpdocumentor/type-resolver (0.2.1 => 0.4.0)
+phpdocumentor/reflection-docblock (3.1.1 => 3.3.0)
+phpspec/prophecy (dev-master 6c52c27 => v1.7.2) Checking out c9b8c6088a
+phpunit/phpunit (4.8.x-dev 4324a44 => 4.8.36) Checking out 46023de9a9
+symfony/process (3.1.x-dev b525066 => v3.1.10) Checking out 2605753c5f
+symfony/finder (3.1.x-dev 59687a2 => v3.1.10) Checking out 59687a255d
+phpspec/php-diff (dev-master 0464787 => v1.0.2) Checking out 30e103d195
+phpspec/phpspec (2.5.x-dev 1431dd0 => 2.5.8) Checking out d8a153dcb5
+symfony/polyfill-util (dev-master 746bce0 => v1.6.0) Checking out 6e719200c8
+symfony/polyfill-php56 (dev-master 1dd42b9 => v1.6.0) Checking out 265fc96795
+league/fractal (0.14.0 => 0.17.0)
+symfony/css-selector (dev-master 4acd5ee => v3.1.10) Checking out 722a87478a
+nesbot/carbon (dev-master 0f87ca7 => 1.22.1) Checking out 7cdf42c0b1
+jeremeamia/superclosure (dev-master 443c3df => 2.3.0) Checking out 443c3df320
+doctrine/inflector (dev-master 803a2ed => v1.2.0) Checking out e11d84c6e0
+laravel/framework (5.3.x-dev 58e4b1d => v5.3.31) Checking out e641e75fc5
+doctrine/lexer (dev-master 83893c5 => v1.0.1) Checking out 83893c552f
+phpoffice/phpexcel (1.8.x-dev 12f91aa => 1.8.1) Checking out 372c7cbb69
+maatwebsite/excel (2.1.x-dev 5d7e89b => 2.1.23) Checking out 8682c95560
+doctrine/annotations (dev-master 1fcf863 => v1.5.0) Checking out 5beebb01b0
+dingo/blueprint (dev-master 53c2e55 => v0.2.3) Checking out ffeb6bcafd
+anahkiasen/html-object (1.4.2 => 1.4.4)
+ezyang/htmlpurifier (v4.8.0 => v4.9.3)
+bacon/bacon-qr-code (1.0.1 => 1.0.3) Downloading: 100%
+patchwork/utf8 (dev-master 30ec645 => v1.3.1) Checking out 30ec6451ae
+cleansoftnl/theme-default (dev-master 501ca08) Cloning 501ca0861b from cache
+cleansoftnl/theme-default-admin (dev-master 1f7e659) Cloning 1f7e659099 from cache
+cleansoftnl/theme-adminlte (dev-master cab2220) Cloning cab2220bae from cache
+mews/purifier (2.0.6 => 2.0.9)
+anahkiasen/former (4.0.x-dev 1ad9b33 => 4.1.1) Checking out 56fd10035d
+laravelcollective/html (dev-master c4c8791 => v5.3.2) Checking out 299f3dccd6
+cleansoftnl/module-core (dev-master df9b8f1) Cloning df9b8f1892 from cache
+dingo/api (dev-master 9427f5c => v1.0.0-beta8) Checking out 46cffad619
+beatswitch/lock-laravel (0.5.0 => 0.5.2) Downloading: 100%
+cleansoftnl/module-auth (dev-master deed768) Cloning deed768332 from cache
+guzzlehttp/guzzle (dev-master 14fa40e => 6.3.0) Checking out f4db5a78a5
+yajra/laravel-datatables-oracle (v6.22.7 => v6.29.1) Downloading: 100%
+cleansoftnl/module-admin (dev-master 7eef792) Cloning 7eef792311 from cache
+symfony/class-loader (v3.3.11) Downloading: 100%
+barryvdh/reflection-docblock (v2.0.4)
+barryvdh/laravel-ide-helper (v2.4.1)
+caffeinated/themes (v3.0.1) Downloading: 100%
+doctrine/collections (v1.5.0)
+doctrine/cache (v1.7.1)
+doctrine/common (v2.8.1)
+doctrine/dbal (v2.6.2)
+symfony/dom-crawler (dev-master 29649ff => v3.1.10) Checking out 7eede2a901
+orchestra/database (v3.3.6) Downloading: 100%
+fzaninotto/faker (dev-master 03eb255 => v1.7.1) Checking out d3ed4cc370
+orchestra/testbench (v3.3.7) Downloading: 100%
+greggilbert/recaptcha dev-master (fb835b2 => c2ed383) Checking out c2ed383785

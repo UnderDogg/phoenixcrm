@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+.idea
+.env
+config/cms.*.php
+database/migrations/
+!resources/lang/en/
+resources/lang/*
+/*.lock
